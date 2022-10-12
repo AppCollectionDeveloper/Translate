@@ -1,6 +1,7 @@
 <resources>
 
-    <string name="facebook_app_id" translatable="false">614769246998672</string>
+
+<string name="facebook_app_id" translatable="false">614769246998672</string>
     <string name="fb_login_protocol_scheme" translatable="false">fb614769246998672</string>
 
     <string name="app_name" translatable="false">Translate</string>
@@ -9,7 +10,7 @@
     <string name="touchtoinsert">Touch to insert text</string>
     <string name="transtext">Translated text here</string>
 
-    <string name="privacyPolicyUrl" translatable="false">https://docs.google.com/document/d/1SNLQgg7vuICMrpo_fZg95FPYNrL3WGe6OMM-HqWGzbU/edit?usp=sharing</string>
+    <string name="privacyPolicyUrl">https://docs.google.com/document/d/1SNLQgg7vuICMrpo_fZg95FPYNrL3WGe6OMM-HqWGzbU/edit?usp=sharing</string>
 
     <string name="menu_feedback">Contact Us</string>
     <string name="menu_rate_us">Rate Us</string>
@@ -22,12 +23,12 @@
 
     <string name="email_subject">Feedback</string>
     <string name="email_text">Dear …,</string>
-    <string name="email_choose">Send ContactUs:</string>
+    <string name="email_choose">Send Contact Us:</string>
 
-    <string name="email_feedback" translatable="false">app.collection.developer@gmail.com</string>
+    <string name="email_feedback">app.collection.developer@gmail.com</string>
     <string name="email_feedback_subject">Feedback</string>
     <string name="email_feedback_text">Dear …,</string>
-    <string name="email_feedback_choose">Send ContactUs:</string>
+    <string name="email_feedback_choose">Send Contact Us:</string>
 
     <string name="history_text">History</string>
     <string name="history_empty">No History Found…</string>
@@ -41,8 +42,8 @@
     <string name="premium_camera">Camera Translation</string>
     <string name="premium_conversation">Conversation</string>
     <string name="premium_restore">Restore Purchase</string>
-    <string name="premium_discount" translatable="false">30\%</string>
-    <string name="premium_sum" translatable="false">$7.99</string>
+    <string name="premium_discount">30\%</string>
+    <string name="premium_sum">$7.99</string>
     <string name="premium_buy">Buy Now for $5.99</string>
 
     <string name="translate_from">from</string>
@@ -91,8 +92,8 @@
     <string name="list_view_item_row">No more ADS forever</string>
     <string name="dialog_mic">Limited offer</string>
     <string name="dialog_mic_text">Go to</string>
-    <string name="resent_search_list_row_lang1">Mobile Number : </string>
-    <string name="resent_search_list_row_lang2">Mobile Number : </string>
+    <string name="resent_search_list_row_lang1">Mobile Number :</string>
+    <string name="resent_search_list_row_lang2">Mobile Number :</string>
 
     <string name="contact_us_text">Contact Us</string>
     <string name="contact_us_question">What can we do?</string>
@@ -134,5 +135,6 @@
     <string name="dialog_button_not_now">Not now</string>
     <string name="dialog_button_cancel">Cancel</string>
     <string name="dialog_button_submit">Submit</string>
+
 
 </resources>

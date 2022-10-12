@@ -1,0 +1,140 @@
+<resources>
+
+
+<string name="facebook_app_id" translatable="false">614769246998672</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb614769246998672</string>
+
+    <string name="app_name" translatable="false">Translate</string>
+    <string name="app_name2" translatable="false">""</string>
+
+    <string name="touchtoinsert">タップしてテキストを挿入</string>
+    <string name="transtext">訳文はこちら</string>
+
+    <string name="privacyPolicyUrl" translatable="false">https://docs.google.com/document/d/1SNLQgg7vuICMrpo_fZg95FPYNrL3WGe6OMM-HqWGzbU/edit?usp=sharing</string>
+
+    <string name="menu_feedback">お問い合わせ</string>
+    <string name="menu_rate_us">私たちを評価してください</string>
+    <string name="menu_share">アプリを共有</string>
+    <string name="menu_policy">プライバシーポリシー</string>
+    <string name="menu_restore">購入を復元</string>
+
+    <string name="db_copy_success">Assets フォルダーからの成功のコピー</string>
+    <string name="db_copy_error">ソース データベースの作成中にエラーが発生しました</string>
+
+    <string name="email_subject">フィードバック</string>
+    <string name="email_text">親愛なる …、</string>
+    <string name="email_choose">お問い合わせを送信:</string>
+
+    <string name="email_feedback" translatable="false">app.collection.developer@gmail.com</string>
+    <string name="email_feedback_subject">フィードバック</string>
+    <string name="email_feedback_text">親愛なる …、</string>
+    <string name="email_feedback_choose">お問い合わせを送信:</string>
+
+    <string name="history_text">歴史</string>
+    <string name="history_empty">履歴が見つかりません…</string>
+    <string name="history_image_delete_error">何かがうまくいかなかった</string>
+
+    <string name="premium_progress_dialog">お待ちください…</string>
+    <string name="premium_purchased">あなたはプロになりました</string>
+    <string name="premium_offer">限定サービス</string>
+    <string name="premium_forever">プレミアム\n永遠に</string>
+    <string name="premium_ad">もうADSは永遠にありません</string>
+    <string name="premium_camera">カメラの移動</string>
+    <string name="premium_conversation">会話</string>
+    <string name="premium_restore">購入商品を復元する</string>
+    <string name="premium_discount" translatable="false">30\%</string>
+    <string name="premium_sum" translatable="false">$7.99</string>
+    <string name="premium_buy">$5.99で今すぐ購入</string>
+
+    <string name="translate_from">から</string>
+    <string name="translate_to">に</string>
+    <string name="translate_progress_dialog">翻訳中</string>
+    <string name="translate_empty_text_error">テキストを入力</string>
+    <string name="translate_text_copied">テキストをコピーしました</string>
+    <string name="translate_empty_text_copy_error">テキストなし！</string>
+    <string name="translate_language_not_supported">この言語はサポートされていません</string>
+    <string name="translate_share">と共有する</string>
+    <string name="translate_empty_text_share_error">テキストなし</string>
+    <string name="translate_load_error">申し訳ありませんが、問題が発生しました</string>
+
+    <string name="recognize_network_error">ネットワーク エラーです。インターネットを確認してください</string>
+    <string name="recognize_audio_error">音声エラーです。もう一度お試しください</string>
+    <string name="recognize_server_error">サーバーに接続できません</string>
+    <string name="recognize_client_error">聞こえません、もう一度お試しください</string>
+    <string name="recognize_timeout_error">聞こえません、もう一度お試しください</string>
+    <string name="recognize_match_error">わかりません。もう一度お試しください</string>
+    <string name="recognize_busy_error">認識機能がビジーです。後で試してください</string>
+    <string name="recognize_error">わかりませんでした。もう一度お試しください。</string>
+
+    <string name="home_app_info">Now %s" Google Playstore で入手可能です。ダウンロードして共有してください</string>
+    <string name="home_share">経由で共有</string>
+    <string name="home_open_camera_error">エラー</string>
+    <string name="home_error">エラー</string>
+    <string name="home_empty_text_image_error">テキストが見つかりません</string>
+    <string name="home_text_image_error">画像からテキストを取得できません</string>
+    <string name="home_text">こんにちは、</string>
+    <string name="home_text_1">どこでも翻訳</string>
+    <string name="home_translator">翻訳者</string>
+    <string name="home_translate">テキストを翻訳する</string>
+    <string name="home_button_start">始める</string>
+    <string name="home_tab_chat">チャット</string>
+    <string name="home_tab_gallery">ギャラリー</string>
+    <string name="home_tab_camera">カメラ</string>
+    <string name="home_tab_history">歴史</string>
+
+    <string name="item_message_name">ジョン・ドウ</string>
+    <string name="item_message_name1">ジョン・ドウ</string>
+    <string name="item_message_text">お元気ですか？</string>
+    <string name="item_message_text1">やあやあ！</string>
+
+    <string name="last_selected_lang">ポーランド</string>
+
+    <string name="list_view_item_row">もうADSは永遠にありません</string>
+    <string name="dialog_mic">限定サービス</string>
+    <string name="dialog_mic_text">に行く</string>
+    <string name="resent_search_list_row_lang1">携帯電話番号 ：</string>
+    <string name="resent_search_list_row_lang2">携帯電話番号 ：</string>
+
+    <string name="contact_us_text">お問い合わせ</string>
+    <string name="contact_us_question">私たちは何ができる？</string>
+    <string name="contact_us_hint">正直なフィードバックは大歓迎です</string>
+    <string name="contact_us_email">Eメール</string>
+    <string name="contact_us_send">送信</string>
+
+    <string name="feedback_text">フィードバック</string>
+    <string name="feedback_question">何が不満ですか？</string>
+    <string name="feedback_translation">動作しません翻訳</string>
+    <string name="feedback_ad">広告が多すぎる</string>
+    <string name="feedback_crash">アプリケーションがクラッシュする</string>
+    <string name="feedback_auto_speak">動作しません 自動読み上げ</string>
+    <string name="feedback_other">他の</string>
+    <string name="feedback_hint">迅速に問題を見つけて決定できるように、問題についてお知らせください。</string>
+    <string name="feedback_send">送信</string>
+
+    <string name="languages_text">言語</string>
+    <string name="languages_search">検索言語…</string>
+    <string name="languages_empty_history">履歴が見つかりません…</string>
+
+    <string name="voice_text">会話</string>
+    <string name="voice_empty">翻訳が見つかりません…</string>
+    <string name="voice_language">英語</string>
+
+    <string name="text_text">翻訳</string>
+    <string name="text_translate">翻訳</string>
+
+    <string name="dialog_speak">今話せ</string>
+    <string name="dialog_speak_lang">英語</string>
+    <string name="dialog_translation_clean">翻訳をクリーンアップしますか?</string>
+    <string name="dialog_app_exit">アプリを終了してもよろしいですか？</string>
+    <string name="dialog_rate_us">私たちを評価してください！</string>
+    <string name="dialog_rate_us_question">私たちのアプリが気に入りましたか?</string>
+    <string name="dialog_rate_us_ask">5つ星をいただければ幸いです。それは私たちにとって非常に重要です!</string>
+    <string name="dialog_button_no">いいえ</string>
+    <string name="dialog_button_yes">はい</string>
+    <string name="dialog_button_ok">Ok</string>
+    <string name="dialog_button_not_now">今はやめろ</string>
+    <string name="dialog_button_cancel">キャンセル</string>
+    <string name="dialog_button_submit">送信</string>
+
+
+</resources>

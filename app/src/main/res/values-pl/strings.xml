@@ -1,0 +1,140 @@
+<resources>
+
+
+<string name="facebook_app_id" translatable="false">614769246998672</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb614769246998672</string>
+
+    <string name="app_name" translatable="false">Translate</string>
+    <string name="app_name2" translatable="false">""</string>
+
+    <string name="touchtoinsert">Dotknij, aby wstawić tekst</string>
+    <string name="transtext">Przetłumaczony tekst tutaj</string>
+
+    <string name="privacyPolicyUrl" translatable="false">https://docs.google.com/document/d/1SNLQgg7vuICMrpo_fZg95FPYNrL3WGe6OMM-HqWGzbU/edit?usp=sharing</string>
+
+    <string name="menu_feedback">Skontaktuj się z nami</string>
+    <string name="menu_rate_us">Oceń nas</string>
+    <string name="menu_share">Udostępnij aplikacje</string>
+    <string name="menu_policy">Polityka prywatności</string>
+    <string name="menu_restore">Przywróć zakupy</string>
+
+    <string name="db_copy_success">Sukces kopiowania z folderu Zasoby</string>
+    <string name="db_copy_error">Błąd podczas tworzenia źródłowej bazy danych</string>
+
+    <string name="email_subject">Informacja zwrotna</string>
+    <string name="email_text">Drogi …,</string>
+    <string name="email_choose">Wyślij kontakt:</string>
+
+    <string name="email_feedback" translatable="false">app.collection.developer@gmail.com</string>
+    <string name="email_feedback_subject">Informacja zwrotna</string>
+    <string name="email_feedback_text">Drogi …,</string>
+    <string name="email_feedback_choose">Wyślij kontakt:</string>
+
+    <string name="history_text">Historia</string>
+    <string name="history_empty">Nie znaleziono historii…</string>
+    <string name="history_image_delete_error">Coś poszło nie tak</string>
+
+    <string name="premium_progress_dialog">Proszę czekać…</string>
+    <string name="premium_purchased">Jesteś teraz profesjonalistą</string>
+    <string name="premium_offer">Oferta limitowana</string>
+    <string name="premium_forever">Premium\nNa zawsze</string>
+    <string name="premium_ad">Nigdy więcej reklam na zawsze</string>
+    <string name="premium_camera">Tłumaczenie kamery</string>
+    <string name="premium_conversation">Rozmowa</string>
+    <string name="premium_restore">Przywróć zakup</string>
+    <string name="premium_discount" translatable="false">30\%</string>
+    <string name="premium_sum" translatable="false">$7.99</string>
+    <string name="premium_buy">Kup teraz za 5,99 USD</string>
+
+    <string name="translate_from">z</string>
+    <string name="translate_to">do</string>
+    <string name="translate_progress_dialog">Tłumaczenie</string>
+    <string name="translate_empty_text_error">Wprowadź tekst</string>
+    <string name="translate_text_copied">Skopiowano tekst</string>
+    <string name="translate_empty_text_copy_error">Brak tekstu!</string>
+    <string name="translate_language_not_supported">Ten język nie jest obsługiwany</string>
+    <string name="translate_share">Udostępnij</string>
+    <string name="translate_empty_text_share_error">Brak tekstu</string>
+    <string name="translate_load_error">Przepraszam, coś poszło nie tak</string>
+
+    <string name="recognize_network_error">Błąd sieci, sprawdź swój Internet</string>
+    <string name="recognize_audio_error">Błąd dźwięku, spróbuj ponownie</string>
+    <string name="recognize_server_error">Nie mogę połączyć się z serwerem</string>
+    <string name="recognize_client_error">Nie słyszę, proszę spróbuj ponownie</string>
+    <string name="recognize_timeout_error">Nie słyszę, proszę spróbuj ponownie</string>
+    <string name="recognize_match_error">Nie rozumiem, spróbuj ponownie</string>
+    <string name="recognize_busy_error">Rozpoznawanie zajęte, spróbuj później</string>
+    <string name="recognize_error">Nie rozumiem, spróbuj ponownie.</string>
+
+    <string name="home_app_info">Teraz %s" Dostępne w Google Playstore, pobierz je, gdy je udostępnisz</string>
+    <string name="home_share">Podziel się przez</string>
+    <string name="home_open_camera_error">Błąd</string>
+    <string name="home_error">Błąd</string>
+    <string name="home_empty_text_image_error">Nie znaleziono tekstu</string>
+    <string name="home_text_image_error">Nie można pobrać tekstu z obrazu</string>
+    <string name="home_text">Witam,</string>
+    <string name="home_text_1">Tłumacz wszędzie</string>
+    <string name="home_translator">Tłumacz</string>
+    <string name="home_translate">przetłumacz swój tekst</string>
+    <string name="home_button_start">Początek</string>
+    <string name="home_tab_chat">Czat</string>
+    <string name="home_tab_gallery">Galeria</string>
+    <string name="home_tab_camera">Aparat fotograficzny</string>
+    <string name="home_tab_history">Historia</string>
+
+    <string name="item_message_name">nieznany z nazwiska</string>
+    <string name="item_message_name1">nieznany z nazwiska</string>
+    <string name="item_message_text">czesc, jak sie masz?</string>
+    <string name="item_message_text1">cześć cześć!</string>
+
+    <string name="last_selected_lang">Polska</string>
+
+    <string name="list_view_item_row">Nigdy więcej reklam na zawsze</string>
+    <string name="dialog_mic">Oferta limitowana</string>
+    <string name="dialog_mic_text">Iść do</string>
+    <string name="resent_search_list_row_lang1">Numer telefonu komórkowego :</string>
+    <string name="resent_search_list_row_lang2">Numer telefonu komórkowego :</string>
+
+    <string name="contact_us_text">Skontaktuj się z nami</string>
+    <string name="contact_us_question">Co możemy zrobić?</string>
+    <string name="contact_us_hint">Uczciwe opinie są mile widziane</string>
+    <string name="contact_us_email">E-mail</string>
+    <string name="contact_us_send">Wysłać</string>
+
+    <string name="feedback_text">Informacja zwrotna</string>
+    <string name="feedback_question">Z czego jesteś niezadowolony?</string>
+    <string name="feedback_translation">Nie działa tłumaczenie</string>
+    <string name="feedback_ad">Za dużo reklam</string>
+    <string name="feedback_crash">Awarie aplikacji</string>
+    <string name="feedback_auto_speak">Nie działa funkcja automatycznego mowy</string>
+    <string name="feedback_other">Inny</string>
+    <string name="feedback_hint">Opowiedz nam o swoim problemie, abyśmy go szybko znaleźli i zdecydowali.</string>
+    <string name="feedback_send">Wysłać</string>
+
+    <string name="languages_text">Języki</string>
+    <string name="languages_search">Wyszukaj język…</string>
+    <string name="languages_empty_history">Nie znaleziono historii…</string>
+
+    <string name="voice_text">Rozmowa</string>
+    <string name="voice_empty">Nie znaleziono tłumaczenia…</string>
+    <string name="voice_language">język angielski</string>
+
+    <string name="text_text">Tłumaczyć</string>
+    <string name="text_translate">Tłumaczyć</string>
+
+    <string name="dialog_speak">Mów teraz</string>
+    <string name="dialog_speak_lang">język angielski</string>
+    <string name="dialog_translation_clean">Czy chcesz wyczyścić tłumaczenie?</string>
+    <string name="dialog_app_exit">Czy na pewno chcesz wyjść z aplikacji?</string>
+    <string name="dialog_rate_us">Oceń nas!</string>
+    <string name="dialog_rate_us_question">Podobała Ci się nasza aplikacja?</string>
+    <string name="dialog_rate_us_ask">Będziemy wdzięczni, jeśli dasz nam 5 gwiazdek. To dla nas bardzo ważne!</string>
+    <string name="dialog_button_no">Nie</string>
+    <string name="dialog_button_yes">TAk</string>
+    <string name="dialog_button_ok">Ok</string>
+    <string name="dialog_button_not_now">Nie teraz</string>
+    <string name="dialog_button_cancel">Anulować</string>
+    <string name="dialog_button_submit">Składać</string>
+
+
+</resources>

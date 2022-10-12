@@ -1,0 +1,140 @@
+<resources>
+
+
+<string name="facebook_app_id" translatable="false">614769246998672</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb614769246998672</string>
+
+    <string name="app_name" translatable="false">Translate</string>
+    <string name="app_name2" translatable="false">""</string>
+
+    <string name="touchtoinsert">Raak aan om tekst in te voegen</string>
+    <string name="transtext">Vertaalde tekst hier</string>
+
+    <string name="privacyPolicyUrl" translatable="false">https://docs.google.com/document/d/1SNLQgg7vuICMrpo_fZg95FPYNrL3WGe6OMM-HqWGzbU/edit?usp=sharing</string>
+
+    <string name="menu_feedback">Neem contact met ons op</string>
+    <string name="menu_rate_us">Beoordeel ons</string>
+    <string name="menu_share">Deel app</string>
+    <string name="menu_policy">Privacybeleid</string>
+    <string name="menu_restore">Aankopen herstellen</string>
+
+    <string name="db_copy_success">Succes kopiëren uit de map Assets</string>
+    <string name="db_copy_error">Fout bij het maken van de brondatabase</string>
+
+    <string name="email_subject">Feedback</string>
+    <string name="email_text">Beste …,</string>
+    <string name="email_choose">Stuur contact met ons op:</string>
+
+    <string name="email_feedback" translatable="false">app.collection.developer@gmail.com</string>
+    <string name="email_feedback_subject">Feedback</string>
+    <string name="email_feedback_text">Beste …,</string>
+    <string name="email_feedback_choose">Stuur contact met ons op:</string>
+
+    <string name="history_text">Geschiedenis</string>
+    <string name="history_empty">Geen geschiedenis gevonden...</string>
+    <string name="history_image_delete_error">Er is iets fout gegaan</string>
+
+    <string name="premium_progress_dialog">Even geduld aub…</string>
+    <string name="premium_purchased">Je bent nu Pro</string>
+    <string name="premium_offer">Beperkt aanbod</string>
+    <string name="premium_forever">Premium\nVoor altijd</string>
+    <string name="premium_ad">Voor altijd geen advertenties meer</string>
+    <string name="premium_camera">Cameravertaling</string>
+    <string name="premium_conversation">Gesprek</string>
+    <string name="premium_restore">Herstel aankoop</string>
+    <string name="premium_discount" translatable="false">30\%</string>
+    <string name="premium_sum" translatable="false">$7.99</string>
+    <string name="premium_buy">Koop nu voor $ 5,99</string>
+
+    <string name="translate_from">van</string>
+    <string name="translate_to">tot</string>
+    <string name="translate_progress_dialog">vertalen</string>
+    <string name="translate_empty_text_error">Tekst invoeren</string>
+    <string name="translate_text_copied">Tekst gekopieerd</string>
+    <string name="translate_empty_text_copy_error">Geen tekst!</string>
+    <string name="translate_language_not_supported">Deze taal wordt niet ondersteund</string>
+    <string name="translate_share">Delen met</string>
+    <string name="translate_empty_text_share_error">Geen tekst</string>
+    <string name="translate_load_error">Sorry, er ging iets mis</string>
+
+    <string name="recognize_network_error">Netwerkfout, controleer uw internet</string>
+    <string name="recognize_audio_error">Audiofout, probeer het opnieuw</string>
+    <string name="recognize_server_error">Ik kan geen verbinding maken met de server</string>
+    <string name="recognize_client_error">Ik kan je niet horen, probeer het opnieuw!</string>
+    <string name="recognize_timeout_error">Ik kan je niet horen, probeer het opnieuw!</string>
+    <string name="recognize_match_error">Ik begrijp het niet, probeer het opnieuw!</string>
+    <string name="recognize_busy_error">Herkenner bezet, probeer het later a.u.b.</string>
+    <string name="recognize_error">Niet begrepen, probeer het opnieuw.</string>
+
+    <string name="home_app_info">Nu %s" Beschikbaar in Google Playstore, download het op share it</string>
+    <string name="home_share">Deel via</string>
+    <string name="home_open_camera_error">Fout</string>
+    <string name="home_error">Fout</string>
+    <string name="home_empty_text_image_error">Geen tekst gevonden</string>
+    <string name="home_text_image_error">Kan tekst niet ophalen uit afbeelding</string>
+    <string name="home_text">Hallo,</string>
+    <string name="home_text_1">Overal vertalen</string>
+    <string name="home_translator">Vertaler</string>
+    <string name="home_translate">vertaal je tekst</string>
+    <string name="home_button_start">Begin</string>
+    <string name="home_tab_chat">Chatten</string>
+    <string name="home_tab_gallery">Galerij</string>
+    <string name="home_tab_camera">Camera</string>
+    <string name="home_tab_history">Geschiedenis</string>
+
+    <string name="item_message_name">John Doe</string>
+    <string name="item_message_name1">John Doe</string>
+    <string name="item_message_text">Hallo man, hoe gaat het?</string>
+    <string name="item_message_text1">Hallo hallo!</string>
+
+    <string name="last_selected_lang">Polen</string>
+
+    <string name="list_view_item_row">Voor altijd geen advertenties meer</string>
+    <string name="dialog_mic">Beperkt aanbod</string>
+    <string name="dialog_mic_text">Ga naar</string>
+    <string name="resent_search_list_row_lang1">Mobiel nummer :</string>
+    <string name="resent_search_list_row_lang2">Mobiel nummer :</string>
+
+    <string name="contact_us_text">Neem contact met ons op</string>
+    <string name="contact_us_question">Wat kunnen we doen?</string>
+    <string name="contact_us_hint">Eerlijke feedback wordt zeer op prijs gesteld</string>
+    <string name="contact_us_email">E-mail</string>
+    <string name="contact_us_send">Versturen</string>
+
+    <string name="feedback_text">Feedback</string>
+    <string name="feedback_question">Waar ben je ontevreden over?</string>
+    <string name="feedback_translation">Werkt niet Vertaling</string>
+    <string name="feedback_ad">Te veel advertenties</string>
+    <string name="feedback_crash">Applicatie crasht</string>
+    <string name="feedback_auto_speak">Werkt niet automatisch spreken</string>
+    <string name="feedback_other">Ander</string>
+    <string name="feedback_hint">Vertel ons over uw probleem, zodat we het snel kunnen vinden en beslissen.</string>
+    <string name="feedback_send">Versturen</string>
+
+    <string name="languages_text">Talen</string>
+    <string name="languages_search">Zoek taal…</string>
+    <string name="languages_empty_history">Geen geschiedenis gevonden...</string>
+
+    <string name="voice_text">Gesprek</string>
+    <string name="voice_empty">Geen vertaling gevonden...</string>
+    <string name="voice_language">Engels</string>
+
+    <string name="text_text">Vertalen</string>
+    <string name="text_translate">Vertalen</string>
+
+    <string name="dialog_speak">Nu spreken</string>
+    <string name="dialog_speak_lang">Engels</string>
+    <string name="dialog_translation_clean">Wilt u de vertaling opschonen?</string>
+    <string name="dialog_app_exit">Weet u zeker dat u de app wilt afsluiten?</string>
+    <string name="dialog_rate_us">Beoordeel ons!</string>
+    <string name="dialog_rate_us_question">Vond je onze app leuk?</string>
+    <string name="dialog_rate_us_ask">We zullen u dankbaar zijn als u ons 5 sterren geeft. Het is erg belangrijk voor ons!</string>
+    <string name="dialog_button_no">Nee</string>
+    <string name="dialog_button_yes">Ja</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_not_now">Niet nu</string>
+    <string name="dialog_button_cancel">Annuleren</string>
+    <string name="dialog_button_submit">Indienen</string>
+
+
+</resources>

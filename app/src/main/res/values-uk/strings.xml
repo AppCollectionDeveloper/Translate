@@ -1,0 +1,140 @@
+<resources>
+
+
+<string name="facebook_app_id" translatable="false">614769246998672</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb614769246998672</string>
+
+    <string name="app_name" translatable="false">Translate</string>
+    <string name="app_name2" translatable="false">""</string>
+
+    <string name="touchtoinsert">Торкніться, щоб вставити текст</string>
+    <string name="transtext">Переклад тексту тут</string>
+
+    <string name="privacyPolicyUrl" translatable="false">https://docs.google.com/document/d/1SNLQgg7vuICMrpo_fZg95FPYNrL3WGe6OMM-HqWGzbU/edit?usp=sharing</string>
+
+    <string name="menu_feedback">Зв\'яжіться з нами</string>
+    <string name="menu_rate_us">Оцініть нас</string>
+    <string name="menu_share">Поділитися додатком</string>
+    <string name="menu_policy">Політика конфіденційності</string>
+    <string name="menu_restore">Відновити покупки</string>
+
+    <string name="db_copy_success">Успішне копіювання з папки Assets</string>
+    <string name="db_copy_error">Помилка створення вихідної бази даних</string>
+
+    <string name="email_subject">Зворотній зв\'язок</string>
+    <string name="email_text">Шановний …,</string>
+    <string name="email_choose">Надіслати</string>
+
+    <string name="email_feedback" translatable="false">app.collection.developer@gmail.com</string>
+    <string name="email_feedback_subject">Зворотній зв\'язок</string>
+    <string name="email_feedback_text">Шановний …,</string>
+    <string name="email_feedback_choose">Надіслати</string>
+
+    <string name="history_text">Історія</string>
+    <string name="history_empty">Історію не знайдено…</string>
+    <string name="history_image_delete_error">Щось пішло не так</string>
+
+    <string name="premium_progress_dialog">Будь ласка, зачекайте…</string>
+    <string name="premium_purchased">Ви тепер професіонал</string>
+    <string name="premium_offer">Обмежено</string>
+    <string name="premium_forever">Преміум\nНазавжди</string>
+    <string name="premium_ad">Жодної реклами назавжди</string>
+    <string name="premium_camera">Переклад з камери</string>
+    <string name="premium_conversation">Розмова</string>
+    <string name="premium_restore">Відновити покупку</string>
+    <string name="premium_discount" translatable="false">30\%</string>
+    <string name="premium_sum" translatable="false">$7.99</string>
+    <string name="premium_buy">Купити зараз за $5,99</string>
+
+    <string name="translate_from">від</string>
+    <string name="translate_to">до</string>
+    <string name="translate_progress_dialog">Перекладаю</string>
+    <string name="translate_empty_text_error">Введіть текст</string>
+    <string name="translate_text_copied">Текст скопійовано</string>
+    <string name="translate_empty_text_copy_error">Без тексту!</string>
+    <string name="translate_language_not_supported">Ця мова не підтримується</string>
+    <string name="translate_share">Поділитися з</string>
+    <string name="translate_empty_text_share_error">Немає тексту</string>
+    <string name="translate_load_error">Вибачте, щось пішло не так</string>
+
+    <string name="recognize_network_error">Помилка мережі, перевірте свій Інтернет</string>
+    <string name="recognize_audio_error">Помилка звуку, спробуйте ще раз</string>
+    <string name="recognize_server_error">Я не можу підключитися до сервера</string>
+    <string name="recognize_client_error">Я вас не чую, спробуйте ще раз</string>
+    <string name="recognize_timeout_error">Я вас не чую, спробуйте ще раз</string>
+    <string name="recognize_match_error">Я не розумію, спробуйте ще раз</string>
+    <string name="recognize_busy_error">Розпізнавач зайнятий, спробуйте пізніше</string>
+    <string name="recognize_error">Не зрозумів, спробуйте ще раз.</string>
+
+    <string name="home_app_info">Тепер %s» доступний у Google Playstore, будь ласка, завантажте його на Share it</string>
+    <string name="home_share">Поділитися через</string>
+    <string name="home_open_camera_error">Помилка</string>
+    <string name="home_error">Помилка</string>
+    <string name="home_empty_text_image_error">Текст не знайдено</string>
+    <string name="home_text_image_error">Неможливо отримати текст із зображення</string>
+    <string name="home_text">Привіт,</string>
+    <string name="home_text_1">Перекладайте всюди</string>
+    <string name="home_translator">Translator</string>
+    <string name="home_translate">перекладіть свій текст</string>
+    <string name="home_button_start">Старт</string>
+    <string name="home_tab_chat">Чат</string>
+    <string name="home_tab_gallery">Галерея</string>
+    <string name="home_tab_camera">Камера</string>
+    <string name="home_tab_history">Історія</string>
+
+    <string name="item_message_name">Джон Доу</string>
+    <string name="item_message_name1">Джон Доу</string>
+    <string name="item_message_text">Привіт, як справи?</string>
+    <string name="item_message_text1">Привіт привіт!</string>
+
+    <string name="last_selected_lang">Польща</string>
+
+    <string name="list_view_item_row">Більше жодної реклами назавжди</string>
+    <string name="dialog_mic">Обмежена пропозиція</string>
+    <string name="dialog_mic_text">Перейти до</string>
+    <string name="resent_search_list_row_lang1">Номер мобільного :</string>
+    <string name="resent_search_list_row_lang2">Номер мобільного :</string>
+
+    <string name="contact_us_text">Зв\'яжіться з нами</string>
+    <string name="contact_us_question">Що ми можемо зробити?</string>
+    <string name="contact_us_hint">Чесний відгук дуже цінується</string>
+    <string name="contact_us_email">Ел. пошта</string>
+    <string name="contact_us_send">Надіслати</string>
+
+    <string name="feedback_text">Зворотній зв\'язок</string>
+    <string name="feedback_question">Чим ти незадоволений?</string>
+    <string name="feedback_translation">Не працює переклад</string>
+    <string name="feedback_ad">Забагато реклами</string>
+    <string name="feedback_crash">Збої програми</string>
+    <string name="feedback_auto_speak">Не працює Auto Speak</string>
+    <string name="feedback_other">Інший</string>
+    <string name="feedback_hint">Розкажіть, будь ласка, про вашу проблему, щоб ми швидше її знайшли і вирішили.</string>
+    <string name="feedback_send">Надіслати</string>
+
+    <string name="languages_text">Мови</string>
+    <string name="languages_search">Мова пошуку…</string>
+    <string name="languages_empty_history">Історію не знайдено…</string>
+
+    <string name="voice_text">Розмова</string>
+    <string name="voice_empty">Переклад не знайдено…</string>
+    <string name="voice_language">Англійська</string>
+
+    <string name="text_text">Перекласти</string>
+    <string name="text_translate">Перекласти</string>
+
+    <string name="dialog_speak">Говори зараз</string>
+    <string name="dialog_speak_lang">Англійська</string>
+    <string name="dialog_translation_clean">Ви хочете очистити переклад?</string>
+    <string name="dialog_app_exit">Ви впевнені, що бажаєте вийти з програми?</string>
+    <string name="dialog_rate_us">Оцініть нас!</string>
+    <string name="dialog_rate_us_question">Вам сподобався наш додаток?</string>
+    <string name="dialog_rate_us_ask">Будемо вдячні, якщо ви поставите нам 5 зірок. Для нас це дуже важливо!</string>
+    <string name="dialog_button_no">Ні</string>
+    <string name="dialog_button_yes">Так</string>
+    <string name="dialog_button_ok">Ок</string>
+    <string name="dialog_button_not_now">Не зараз</string>
+    <string name="dialog_button_cancel">Скасувати</string>
+    <string name="dialog_button_submit">Надіслати</string>
+
+
+</resources>

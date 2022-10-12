@@ -1,0 +1,140 @@
+<resources>
+
+
+<string name="facebook_app_id" translatable="false">614769246998672</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb614769246998672</string>
+
+    <string name="app_name" translatable="false">Translate</string>
+    <string name="app_name2" translatable="false">""</string>
+
+    <string name="touchtoinsert">Текст киргизүү үчүн тийип коюңуз</string>
+    <string name="transtext">Которулган текст бул жерде</string>
+
+    <string name="privacyPolicyUrl" translatable="false">https://docs.google.com/document/d/1SNLQgg7vuICMrpo_fZg95FPYNrL3WGe6OMM-HqWGzbU/edit?usp=sharing</string>
+
+    <string name="menu_feedback">Биз менен байланыш</string>
+    <string name="menu_rate_us">Бизди баалаңыз</string>
+    <string name="menu_share">Колдонмону бөлүшүү</string>
+    <string name="menu_policy">Купуялык саясаты</string>
+    <string name="menu_restore">Сатып алууларды калыбына келтирүү</string>
+
+    <string name="db_copy_success">Assets папкасынан ийгиликтүү көчүрүү</string>
+    <string name="db_copy_error">Булак базасын түзүү катасы</string>
+
+    <string name="email_subject">Пикир</string>
+    <string name="email_text">Урматтуу…,</string>
+    <string name="email_choose">Бизге жөнөтүү:</string>
+
+    <string name="email_feedback" translatable="false">app.collection.developer@gmail.com</string>
+    <string name="email_feedback_subject">Пикир</string>
+    <string name="email_feedback_text">Урматтуу…,</string>
+    <string name="email_feedback_choose">Бизге жөнөтүү:</string>
+
+    <string name="history_text">тарых</string>
+    <string name="history_empty">Таржымал табылган жок…</string>
+    <string name="history_image_delete_error">Бир жерден ката кетти</string>
+
+    <string name="premium_progress_dialog">Күтө туруңуз…</string>
+    <string name="premium_purchased">Сиз азыр профессионалдуусуз</string>
+    <string name="premium_offer">Чектелген сунуш</string>
+    <string name="premium_forever">Премиум\nТүбөлүккө</string>
+    <string name="premium_ad">Түбөлүк ADS болбойт</string>
+    <string name="premium_camera">Камеранын котормосу</string>
+    <string name="premium_conversation">Сүйлөшүү</string>
+    <string name="premium_restore">Сатып алууну калыбына келтирүү</string>
+    <string name="premium_discount" translatable="false">30\%</string>
+    <string name="premium_sum" translatable="false">$7.99</string>
+    <string name="premium_buy">Азыр сатып алуу $5.99</string>
+
+    <string name="translate_from">тартып</string>
+    <string name="translate_to">чейин</string>
+    <string name="translate_progress_dialog">Которулууда</string>
+    <string name="translate_empty_text_error">Текст киргизиңиз</string>
+    <string name="translate_text_copied">Текст көчүрүлдү</string>
+    <string name="translate_empty_text_copy_error">Текст жок!</string>
+    <string name="translate_language_not_supported">Бул тил колдоого алынбайт</string>
+    <string name="translate_share">менен бөлүшүү</string>
+    <string name="translate_empty_text_share_error">Текст жок</string>
+    <string name="translate_load_error">Кечиресиз, бир жерден ката кетти</string>
+
+    <string name="recognize_network_error">Тармак катасы, Интернетиңизди текшериңиз</string>
+    <string name="recognize_audio_error">Аудио катасы, кайра аракет кылыңыз</string>
+    <string name="recognize_server_error">Мен серверге туташа албай жатам</string>
+    <string name="recognize_client_error">Мен сизди уга албай жатам, кайра аракет кылыңыз</string>
+    <string name="recognize_timeout_error">Мен сизди уга албай жатам, кайра аракет кылыңыз</string>
+    <string name="recognize_match_error">Мен түшүнгөн жокмун, кайра аракет кылыңыз</string>
+    <string name="recognize_busy_error">Тааныгыч бош эмес, кийинчерээк аракет кылып көрүңүз</string>
+    <string name="recognize_error">Түшүнгөн жокмун, кайра аракет кылыңыз.</string>
+
+    <string name="home_app_info">Эми %s" Google Playstore\'до жеткиликтүү, аны бөлүшүү үчүн жүктөп алыңыз</string>
+    <string name="home_share">аркылуу бөлүшүү</string>
+    <string name="home_open_camera_error">Ката</string>
+    <string name="home_error">Ката</string>
+    <string name="home_empty_text_image_error">Текст табылган жок</string>
+    <string name="home_text_image_error">Сүрөттөн текст алынбай жатат</string>
+    <string name="home_text">Салам,</string>
+    <string name="home_text_1">Бардык жерде которуңуз</string>
+    <string name="home_translator">Котормочу</string>
+    <string name="home_translate">текстиңизди которуңуз</string>
+    <string name="home_button_start">Баштоо</string>
+    <string name="home_tab_chat">Чат</string>
+    <string name="home_tab_gallery">Галерея</string>
+    <string name="home_tab_camera">Камера</string>
+    <string name="home_tab_history">тарых</string>
+
+    <string name="item_message_name">John Doe</string>
+    <string name="item_message_name1">John Doe</string>
+    <string name="item_message_text">салам адам, кандайсың?</string>
+    <string name="item_message_text1">салам Салам!</string>
+
+    <string name="last_selected_lang">Польша</string>
+
+    <string name="list_view_item_row">Түбөлүк ADS болбойт</string>
+    <string name="dialog_mic">Чектелген сунуш</string>
+    <string name="dialog_mic_text">Баруу</string>
+    <string name="resent_search_list_row_lang1">Мобилдик саны :</string>
+    <string name="resent_search_list_row_lang2">Мобилдик саны :</string>
+
+    <string name="contact_us_text">Биз менен байланыш</string>
+    <string name="contact_us_question">Биз эмне кыла алабыз?</string>
+    <string name="contact_us_hint">Чынчыл пикир абдан бааланат</string>
+    <string name="contact_us_email">E-mail</string>
+    <string name="contact_us_send">Жөнөтүү</string>
+
+    <string name="feedback_text">Пикир</string>
+    <string name="feedback_question">Сиз эмнеге нааразысыз?</string>
+    <string name="feedback_translation">Котормо иштебейт</string>
+    <string name="feedback_ad">Өтө көп жарнамалар</string>
+    <string name="feedback_crash">Колдонмо бузулат</string>
+    <string name="feedback_auto_speak">Авто сүйлөө иштебей жатат</string>
+    <string name="feedback_other">Башка</string>
+    <string name="feedback_hint">Бизге көйгөйүңүздү айтып бериңиз, биз аны тез таап, чечебиз.</string>
+    <string name="feedback_send">Жөнөтүү</string>
+
+    <string name="languages_text">Тилдер</string>
+    <string name="languages_search">Тилди издөө…</string>
+    <string name="languages_empty_history">Таржымал табылган жок…</string>
+
+    <string name="voice_text">Сүйлөшүү</string>
+    <string name="voice_empty">Котормо табылган жок…</string>
+    <string name="voice_language">Англисче</string>
+
+    <string name="text_text">Translate</string>
+    <string name="text_translate">Translate</string>
+
+    <string name="dialog_speak">Азыр сүйлө</string>
+    <string name="dialog_speak_lang">Англисче</string>
+    <string name="dialog_translation_clean">Котормолорду тазалоону каалайсызбы?</string>
+    <string name="dialog_app_exit">Колдонмодон чын эле чыккыңыз келеби?</string>
+    <string name="dialog_rate_us">Бизге баа бериңиз!</string>
+    <string name="dialog_rate_us_question">Биздин колдонмо сизге жактыбы?</string>
+    <string name="dialog_rate_us_ask">Бизге 5 жылдыз берсеңиз, биз ыраазы болобуз. Бул биз үчүн абдан маанилүү!</string>
+    <string name="dialog_button_no">Жок</string>
+    <string name="dialog_button_yes">Ооба</string>
+    <string name="dialog_button_ok">Макул</string>
+    <string name="dialog_button_not_now">Азыр эмес</string>
+    <string name="dialog_button_cancel">Жокко чыгаруу</string>
+    <string name="dialog_button_submit">Тапшыруу</string>
+
+
+</resources>

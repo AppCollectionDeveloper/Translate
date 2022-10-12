@@ -1,0 +1,140 @@
+<resources>
+
+
+<string name="facebook_app_id" translatable="false">614769246998672</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb614769246998672</string>
+
+    <string name="app_name" translatable="false">Translate</string>
+    <string name="app_name2" translatable="false">""</string>
+
+    <string name="touchtoinsert">Հպեք՝ տեքստ տեղադրելու համար</string>
+    <string name="transtext">Թարգմանված տեքստն այստեղ</string>
+
+    <string name="privacyPolicyUrl" translatable="false">https://docs.google.com/document/d/1SNLQgg7vuICMrpo_fZg95FPYNrL3WGe6OMM-HqWGzbU/edit?usp=sharing</string>
+
+    <string name="menu_feedback">Կապ մեզ հետ</string>
+    <string name="menu_rate_us">Գնահատեք մեզ</string>
+    <string name="menu_share">Համօգտագործել հավելվածը</string>
+    <string name="menu_policy">Գաղտնիության քաղաքականություն</string>
+    <string name="menu_restore">Վերականգնել գնումներ</string>
+
+    <string name="db_copy_success">Պատճենման հաջողությունը Ակտիվների պանակից</string>
+    <string name="db_copy_error">Չհաջողվեց ստեղծել աղբյուրի տվյալների բազա</string>
+
+    <string name="email_subject">Հետադարձ կապ</string>
+    <string name="email_text">Սիրելի …,</string>
+    <string name="email_choose">Ուղարկել Հետադարձ կապ.</string>
+
+    <string name="email_feedback" translatable="false">app.collection.developer@gmail.com</string>
+    <string name="email_feedback_subject">Հետադարձ կապ</string>
+    <string name="email_feedback_text">Սիրելի …,</string>
+    <string name="email_feedback_choose">Ուղարկել Հետադարձ կապ.</string>
+
+    <string name="history_text">Պատմություն</string>
+    <string name="history_empty">Պատմություն չի գտնվել…</string>
+    <string name="history_image_delete_error">Ինչ որ բան այնպես չգնաց</string>
+
+    <string name="premium_progress_dialog">Խնդրում ենք սպասել…</string>
+    <string name="premium_purchased">Դուք հիմա Pro եք</string>
+    <string name="premium_offer">Սահմանափակ առաջարկ</string>
+    <string name="premium_forever">Պրեմիում\nԸնդմիշտ</string>
+    <string name="premium_ad">Այլևս ոչ մի գովազդ ընդմիշտ</string>
+    <string name="premium_camera">Տեսախցիկի թարգմանություն</string>
+    <string name="premium_conversation">Զրույց</string>
+    <string name="premium_restore">Վերականգնել գնումը</string>
+    <string name="premium_discount" translatable="false">30\%</string>
+    <string name="premium_sum" translatable="false">$7.99</string>
+    <string name="premium_buy">Գնե՛ք հիմա 5,99 դոլարով</string>
+
+    <string name="translate_from">-ից</string>
+    <string name="translate_to">դեպի</string>
+    <string name="translate_progress_dialog">Թարգմանում է</string>
+    <string name="translate_empty_text_error">Մուտքագրեք Տեքստը</string>
+    <string name="translate_text_copied">Տեքստը պատճենված է</string>
+    <string name="translate_empty_text_copy_error">Տեքստ չկա:</string>
+    <string name="translate_language_not_supported">Այս լեզուն չի աջակցվում</string>
+    <string name="translate_share">Կիսվել հետ</string>
+    <string name="translate_empty_text_share_error">Ոչ մի տեքստ</string>
+    <string name="translate_load_error">Կներեք, ինչ-որ բան սխալվեց</string>
+
+    <string name="recognize_network_error">Ցանցի սխալ, խնդրում ենք ստուգել ձեր ինտերնետը</string>
+    <string name="recognize_audio_error">Ձայնային սխալ, խնդրում ենք կրկին փորձել</string>
+    <string name="recognize_server_error">Ես չեմ կարող միանալ սերվերին</string>
+    <string name="recognize_client_error">Ես չեմ կարող քեզ լսել, խնդրում եմ նորից փորձիր</string>
+    <string name="recognize_timeout_error">Ես չեմ կարող քեզ լսել, խնդրում եմ նորից փորձիր</string>
+    <string name="recognize_match_error">Չեմ հասկանում, խնդրում եմ նորից փորձեք</string>
+    <string name="recognize_busy_error">Ճանաչիչը զբաղված է, փորձեք ավելի ուշ</string>
+    <string name="recognize_error">Չհասկացա, խնդրում եմ նորից փորձեք:</string>
+
+    <string name="home_app_info">Այժմ %s»-ը հասանելի է Google Playstore-ում, խնդրում ենք ներբեռնել այն համօգտագործման միջոցով</string>
+    <string name="home_share">Կիսվել միջոցով</string>
+    <string name="home_open_camera_error">Սխալ</string>
+    <string name="home_error">Սխալ</string>
+    <string name="home_empty_text_image_error">Տեքստ չի գտնվել</string>
+    <string name="home_text_image_error">Հնարավոր չէ պատկերից տեքստ բերել</string>
+    <string name="home_text">Բարեւ Ձեզ,</string>
+    <string name="home_text_1">Թարգմանեք ամենուր</string>
+    <string name="home_translator">Թարգմանիչ</string>
+    <string name="home_translate">թարգմանել ձեր տեքստը</string>
+    <string name="home_button_start">Սկսել</string>
+    <string name="home_tab_chat">Զրուցարան</string>
+    <string name="home_tab_gallery">Պատկերասրահ</string>
+    <string name="home_tab_camera">Տեսախցիկ</string>
+    <string name="home_tab_history">Պատմություն</string>
+
+    <string name="item_message_name">Ջոն Դո</string>
+    <string name="item_message_name1">Ջոն Դո</string>
+    <string name="item_message_text">բարև մարդ, ինչպես ես</string>
+    <string name="item_message_text1">Բարեւ բարեւ!</string>
+
+    <string name="last_selected_lang">Լեհաստան</string>
+
+    <string name="list_view_item_row">Այլևս ոչ մի գովազդ ընդմիշտ</string>
+    <string name="dialog_mic">Սահմանափակ առաջարկ</string>
+    <string name="dialog_mic_text">Գնալ</string>
+    <string name="resent_search_list_row_lang1">Բջջայինի համար :</string>
+    <string name="resent_search_list_row_lang2">Բջջայինի համար :</string>
+
+    <string name="contact_us_text">Կապ մեզ հետ</string>
+    <string name="contact_us_question">Ինչ կարող ենք անել?</string>
+    <string name="contact_us_hint">Ազնիվ արձագանքը շատ գնահատելի է</string>
+    <string name="contact_us_email">Էլ</string>
+    <string name="contact_us_send">Ուղարկել</string>
+
+    <string name="feedback_text">Հետադարձ կապ</string>
+    <string name="feedback_question">Ինչի՞ց եք դժգոհ։</string>
+    <string name="feedback_translation">Չի աշխատում Թարգմանություն</string>
+    <string name="feedback_ad">Չափազանց շատ գովազդ</string>
+    <string name="feedback_crash">Հավելվածը խափանում է</string>
+    <string name="feedback_auto_speak">Չի աշխատում «Ավտոմատ խոսել»:</string>
+    <string name="feedback_other">Այլ</string>
+    <string name="feedback_hint">Խնդրում եմ պատմեք մեզ ձեր խնդրի մասին, որպեսզի մենք արագ գտնենք այն և որոշենք։</string>
+    <string name="feedback_send">Ուղարկել</string>
+
+    <string name="languages_text">Լեզուներ</string>
+    <string name="languages_search">Որոնել լեզուն…</string>
+    <string name="languages_empty_history">Պատմություն չի գտնվել…</string>
+
+    <string name="voice_text">Զրույց</string>
+    <string name="voice_empty">Թարգմանություն չի գտնվել…</string>
+    <string name="voice_language">Անգլերեն</string>
+
+    <string name="text_text">Թարգմանել</string>
+    <string name="text_translate">Թարգմանել</string>
+
+    <string name="dialog_speak">Խոսիր հիմա</string>
+    <string name="dialog_speak_lang">Անգլերեն</string>
+    <string name="dialog_translation_clean">Ցանկանու՞մ եք մաքրել թարգմանությունը:</string>
+    <string name="dialog_app_exit">Իսկապե՞ս ուզում եք դուրս գալ հավելվածից:</string>
+    <string name="dialog_rate_us">Գնահատեք մեզ!</string>
+    <string name="dialog_rate_us_question">Ձեզ դուր եկավ մեր հավելվածը:</string>
+    <string name="dialog_rate_us_ask">Մենք երախտապարտ կլինենք, եթե մեզ 5 աստղ տաս: Դա շատ կարևոր է մեզ համար:</string>
+    <string name="dialog_button_no">Ոչ</string>
+    <string name="dialog_button_yes">Այո՛</string>
+    <string name="dialog_button_ok">Լավ</string>
+    <string name="dialog_button_not_now">Ոչ հիմա</string>
+    <string name="dialog_button_cancel">Չեղարկել</string>
+    <string name="dialog_button_submit">Ներկայացնել</string>
+
+
+</resources>

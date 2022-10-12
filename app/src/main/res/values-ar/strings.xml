@@ -1,0 +1,140 @@
+<resources>
+
+
+<string name="facebook_app_id" translatable="false">614769246998672</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb614769246998672</string>
+
+    <string name="app_name" translatable="false">Translate</string>
+    <string name="app_name2" translatable="false">""</string>
+
+    <string name="touchtoinsert">المس لإدراج نص</string>
+    <string name="transtext">نص مترجم هنا</string>
+
+    <string name="privacyPolicyUrl" translatable="false">https://docs.google.com/document/d/1SNLQgg7vuICMrpo_fZg95FPYNrL3WGe6OMM-HqWGzbU/edit?usp=sharing</string>
+
+    <string name="menu_feedback">اتصل بنا</string>
+    <string name="menu_rate_us">قيمنا</string>
+    <string name="menu_share">شارك التطبيق</string>
+    <string name="menu_policy">سياسة الخصوصية</string>
+    <string name="menu_restore">استعادة المشتريات</string>
+
+    <string name="db_copy_success">تم النسخ بنجاح من مجلد الأصول</string>
+    <string name="db_copy_error">خطأ في إنشاء قاعدة بيانات المصدر</string>
+
+    <string name="email_subject">استجابة</string>
+    <string name="email_text">عزيزي …،</string>
+    <string name="email_choose">إرسال اتصل بنا:</string>
+
+    <string name="email_feedback" translatable="false">app.collection.developer@gmail.com</string>
+    <string name="email_feedback_subject">استجابة</string>
+    <string name="email_feedback_text">عزيزي …،</string>
+    <string name="email_feedback_choose">إرسال اتصل بنا:</string>
+
+    <string name="history_text">تاريخ</string>
+    <string name="history_empty">لم يتم العثور على محفوظات ...</string>
+    <string name="history_image_delete_error">هناك خطأ ما</string>
+
+    <string name="premium_progress_dialog">أرجو الإنتظار…</string>
+    <string name="premium_purchased">أنت محترف الآن</string>
+    <string name="premium_offer">عرض محدود</string>
+    <string name="premium_forever">ممتاز \nللأبد</string>
+    <string name="premium_ad">لا مزيد من الإعلانات إلى الأبد</string>
+    <string name="premium_camera">ترجمة الكاميرا</string>
+    <string name="premium_conversation">محادثة</string>
+    <string name="premium_restore">استعادة شراء</string>
+    <string name="premium_discount" translatable="false">30\%</string>
+    <string name="premium_sum" translatable="false">$7.99</string>
+    <string name="premium_buy">اشترِ الآن مقابل 5.99 دولار</string>
+
+    <string name="translate_from">من</string>
+    <string name="translate_to">إلى</string>
+    <string name="translate_progress_dialog">جار الترجمة</string>
+    <string name="translate_empty_text_error">أدخل النص</string>
+    <string name="translate_text_copied">تم نسخ النص</string>
+    <string name="translate_empty_text_copy_error">لا يوجد نص!</string>
+    <string name="translate_language_not_supported">هذه اللغة غير مدعومة</string>
+    <string name="translate_share">شارك مع</string>
+    <string name="translate_empty_text_share_error">لا يوجد نص</string>
+    <string name="translate_load_error">عذرا، هناك خطأ ما</string>
+
+    <string name="recognize_network_error">خطأ في الشبكة ، يرجى التحقق من الإنترنت الخاص بك</string>
+    <string name="recognize_audio_error">خطأ في الصوت ، يرجى المحاولة مرة أخرى</string>
+    <string name="recognize_server_error">لا يمكنني الاتصال بالخادم</string>
+    <string name="recognize_client_error">لا أستطيع سماعك ، يرجى المحاولة مرة أخرى</string>
+    <string name="recognize_timeout_error">لا أستطيع سماعك ، يرجى المحاولة مرة أخرى</string>
+    <string name="recognize_match_error">أنا لا أفهم ، يرجى المحاولة مرة أخرى</string>
+    <string name="recognize_busy_error">أداة التعرف مشغولة ، يرجى المحاولة لاحقًا</string>
+    <string name="recognize_error">لم أفهم ، يرجى المحاولة مرة أخرى.</string>
+
+    <string name="home_app_info">الآن٪ s "متوفر على متجر Google Playstore ، يرجى تنزيله عند مشاركته</string>
+    <string name="home_share">شارك عبر</string>
+    <string name="home_open_camera_error">خطأ</string>
+    <string name="home_error">خطأ</string>
+    <string name="home_empty_text_image_error">لم يتم العثور على نص</string>
+    <string name="home_text_image_error">تعذر جلب النص من الصورة</string>
+    <string name="home_text">مرحبًا،</string>
+    <string name="home_text_1">ترجم في كل مكان</string>
+    <string name="home_translator">مترجم</string>
+    <string name="home_translate">ترجمة النص الخاص بك</string>
+    <string name="home_button_start">بداية</string>
+    <string name="home_tab_chat">دردشة</string>
+    <string name="home_tab_gallery">صالة عرض</string>
+    <string name="home_tab_camera">آلة تصوير</string>
+    <string name="home_tab_history">تاريخ</string>
+
+    <string name="item_message_name">فلان الفلاني</string>
+    <string name="item_message_name1">فلان الفلاني</string>
+    <string name="item_message_text">مرحبا يا رجلا كيف حالك؟</string>
+    <string name="item_message_text1">أهلا أهلا!</string>
+
+    <string name="last_selected_lang">بولندا</string>
+
+    <string name="list_view_item_row">لا مزيد من الإعلانات إلى الأبد</string>
+    <string name="dialog_mic">عرض محدود</string>
+    <string name="dialog_mic_text">اذهب إلى</string>
+    <string name="resent_search_list_row_lang1">رقم الهاتف المحمول :</string>
+    <string name="resent_search_list_row_lang2">رقم الهاتف المحمول :</string>
+
+    <string name="contact_us_text">اتصل بنا</string>
+    <string name="contact_us_question">ماذا نستطيع ان نفعل؟</string>
+    <string name="contact_us_hint">هو محل تقدير كبير ردود الفعل الصادقة</string>
+    <string name="contact_us_email">البريد الإلكتروني</string>
+    <string name="contact_us_send">إرسال</string>
+
+    <string name="feedback_text">استجابة</string>
+    <string name="feedback_question">ما الذي أنت غير سعيد به؟</string>
+    <string name="feedback_translation">لا تعمل الترجمة</string>
+    <string name="feedback_ad">الكثير من الإعلانات</string>
+    <string name="feedback_crash">تعطل التطبيق</string>
+    <string name="feedback_auto_speak">لا تعمل خاصية التحدث التلقائي</string>
+    <string name="feedback_other">آخر</string>
+    <string name="feedback_hint">يرجى إخبارنا بمشكلتك ، حتى نتمكن من العثور عليها بسرعة واتخاذ قرار بشأنها.</string>
+    <string name="feedback_send">إرسال</string>
+
+    <string name="languages_text">اللغات</string>
+    <string name="languages_search">لغة البحث ...</string>
+    <string name="languages_empty_history">لم يتم العثور على محفوظات ...</string>
+
+    <string name="voice_text">محادثة</string>
+    <string name="voice_empty">لم يتم العثور على ترجمة ...</string>
+    <string name="voice_language">إنجليزي</string>
+
+    <string name="text_text">يترجم</string>
+    <string name="text_translate">يترجم</string>
+
+    <string name="dialog_speak">تكلم الآن</string>
+    <string name="dialog_speak_lang">إنجليزي</string>
+    <string name="dialog_translation_clean">هل تريد تنظيف الترجمة؟</string>
+    <string name="dialog_app_exit">هل أنت متأكد أنك تريد الخروج من التطبيق؟</string>
+    <string name="dialog_rate_us">قيمنا!</string>
+    <string name="dialog_rate_us_question">هل أعجبك تطبيقنا؟</string>
+    <string name="dialog_rate_us_ask">سنكون ممتنين إذا أعطيتنا 5 نجوم. انها مهمة جدا بالنسبة لنا!</string>
+    <string name="dialog_button_no">رقم</string>
+    <string name="dialog_button_yes">نعم</string>
+    <string name="dialog_button_ok">موافق</string>
+    <string name="dialog_button_not_now">ليس الان</string>
+    <string name="dialog_button_cancel">يلغي</string>
+    <string name="dialog_button_submit">يُقدِّم</string>
+
+
+</resources>
