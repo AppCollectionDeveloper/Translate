@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="admob_app_id">ca-app-pub-4054916688281701~3314508294</string>
+    <string name="admob_banner">ca-app-pub-4054916688281701/8697577353</string>
+    <string name="admob_native_advance">ca-app-pub-4054916688281701/1851013692</string>
+    <string name="admob_interstitial_full_screen">ca-app-pub-4054916688281701/9444764387</string>
+    <string name="admob_reward_video">ca-app-pub-4054916688281701/2497084792</string>
+    <string name="ad_app_open_id">ca-app-pub-4054916688281701/2158135459</string>
+
+    <string name="ad_attribution" translatable="false">Ad</string>
+
+</resources>

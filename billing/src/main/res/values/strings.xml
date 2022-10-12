@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="billing_error">billing is not initialized</string>
+
+</resources>

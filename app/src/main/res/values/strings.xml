@@ -1,0 +1,138 @@
+<resources>
+
+    <string name="facebook_app_id">614769246998672</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+
+    <string name="app_name">Translate</string>
+    <string name="app_name2">""</string>
+
+    <string name="touchtoinsert">Touch to insert text</string>
+    <string name="transtext">Translated text here</string>
+
+    <string name="privacyPolicyUrl">https://docs.google.com/document/d/1SNLQgg7vuICMrpo_fZg95FPYNrL3WGe6OMM-HqWGzbU/edit?usp=sharing</string>
+
+    <string name="menu_feedback">Contact Us</string>
+    <string name="menu_rate_us">Rate Us</string>
+    <string name="menu_share">Share App</string>
+    <string name="menu_policy">Privacy Policy</string>
+    <string name="menu_restore">Restore Purchases</string>
+
+    <string name="db_copy_success">Copying success from Assets folder</string>
+    <string name="db_copy_error">Error creating source database</string>
+
+    <string name="email_subject">Feedback</string>
+    <string name="email_text">Dear …,</string>
+    <string name="email_choose">Send ContactUs:</string>
+
+    <string name="email_feedback">app.collection.developer@gmail.com</string>
+    <string name="email_feedback_subject">Feedback</string>
+    <string name="email_feedback_text">Dear …,</string>
+    <string name="email_feedback_choose">Send ContactUs:</string>
+
+    <string name="history_text">History</string>
+    <string name="history_empty">No History Found…</string>
+    <string name="history_image_delete_error">Something went Wrong</string>
+
+    <string name="premium_progress_dialog">Please wait…</string>
+    <string name="premium_purchased">You are Pro Now</string>
+    <string name="premium_offer">Limited offer</string>
+    <string name="premium_forever">Premium\nForever</string>
+    <string name="premium_ad">No more ADS forever</string>
+    <string name="premium_camera">Camera Translation</string>
+    <string name="premium_conversation">Conversation</string>
+    <string name="premium_restore">Restore Purchase</string>
+    <string name="premium_discount">50\%</string>
+    <string name="premium_sum">$7.99</string>
+    <string name="premium_buy">Buy Now for $5.99</string>
+
+    <string name="translate_from">from</string>
+    <string name="translate_to">to</string>
+    <string name="translate_progress_dialog">Translating</string>
+    <string name="translate_empty_text_error">Enter Text</string>
+    <string name="translate_text_copied">Text Copied</string>
+    <string name="translate_empty_text_copy_error">No Text!</string>
+    <string name="translate_language_not_supported">This Language is not supported</string>
+    <string name="translate_share">Share with</string>
+    <string name="translate_empty_text_share_error">No text</string>
+    <string name="translate_load_error">Sorry Something went Wrong</string>
+
+    <string name="recognize_network_error">Network Error, Please Check Your Internet</string>
+    <string name="recognize_audio_error">Audio Error, Please Try Again</string>
+    <string name="recognize_server_error">I Can not Connect To Server</string>
+    <string name="recognize_client_error">I Can\'t Hear You, Please Try Again</string>
+    <string name="recognize_timeout_error">I Can\'t Hear You, Please Try Again</string>
+    <string name="recognize_match_error">I Don\'t Understand, Please Try Again</string>
+    <string name="recognize_busy_error">Recognizer Busy, Please Try Later</string>
+    <string name="recognize_error">Didn\'t understand, please try again.</string>
+
+    <string name="home_app_info">Now %s" Available on Google Playstore please download it on share it</string>
+    <string name="home_share">Share Via</string>
+    <string name="home_open_camera_error">Error</string>
+    <string name="home_error">Error</string>
+    <string name="home_empty_text_image_error">No text Found</string>
+    <string name="home_text_image_error">Unable to fetch text from image</string>
+    <string name="home_text">Hello,</string>
+    <string name="home_text_1">Translate everywhere</string>
+    <string name="home_translator">Translator</string>
+    <string name="home_translate">translate your text</string>
+    <string name="home_button_start">Start</string>
+    <string name="home_tab_chat">Chat</string>
+    <string name="home_tab_gallery">Gallery</string>
+    <string name="home_tab_camera">Camera</string>
+    <string name="home_tab_history">History</string>
+
+    <string name="item_message_name">John Doe</string>
+    <string name="item_message_name1">John Doe</string>
+    <string name="item_message_text">hi man, how are you?</string>
+    <string name="item_message_text1">hello, hello!</string>
+
+    <string name="last_selected_lang">Poland</string>
+
+    <string name="list_view_item_row">No more ADS forever</string>
+    <string name="dialog_mic">Limited offer</string>
+    <string name="dialog_mic_text">Go to</string>
+    <string name="resent_search_list_row_lang1">Mobile Number : </string>
+    <string name="resent_search_list_row_lang2">Mobile Number : </string>
+
+    <string name="contact_us_text">Contact Us</string>
+    <string name="contact_us_question">What can we do?</string>
+    <string name="contact_us_hint">Honest feedback is much appreciated</string>
+    <string name="contact_us_email">E-mail</string>
+    <string name="contact_us_send">Send</string>
+
+    <string name="feedback_text">Feedback</string>
+    <string name="feedback_question">What are you unhappy with?</string>
+    <string name="feedback_translation">Doesn\'t work Translation</string>
+    <string name="feedback_ad">Too much ads</string>
+    <string name="feedback_crash">Application crashes</string>
+    <string name="feedback_auto_speak">Doesn\'t work Auto Speak</string>
+    <string name="feedback_other">Other</string>
+    <string name="feedback_hint">Please tell us about your problem, so that we quickly find it and decide.</string>
+    <string name="feedback_send">Send</string>
+
+    <string name="languages_text">Languages</string>
+    <string name="languages_search">Search language…</string>
+    <string name="languages_empty_history">No History Found…</string>
+
+    <string name="voice_text">Conversation</string>
+    <string name="voice_empty">No Translation Found…</string>
+    <string name="voice_language">English</string>
+
+    <string name="text_text">Translate</string>
+    <string name="text_translate">Translate</string>
+
+    <string name="dialog_speak">Speak Now</string>
+    <string name="dialog_speak_lang">English</string>
+    <string name="dialog_translation_clean">Do you want to clean translation?</string>
+    <string name="dialog_app_exit">Are you sure you want to exit the App?</string>
+    <string name="dialog_rate_us">Rate Us!</string>
+    <string name="dialog_rate_us_question">Did you like our app?</string>
+    <string name="dialog_rate_us_ask">We will be grateful if you give us 5 stars. It\'s very important for us!</string>
+    <string name="dialog_button_no">No</string>
+    <string name="dialog_button_yes">Yes</string>
+    <string name="dialog_button_ok">Ok</string>
+    <string name="dialog_button_not_now">Not now</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_submit">Submit</string>
+
+</resources>
